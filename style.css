@@ -12,11 +12,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 14px;
     background-color: #141414;
     font-family: "Inter", sans-serif;
 }
 
 .container{
+    width: 400px;
     padding: 20px;
     border-radius: 12px;
     text-align: center;
@@ -57,7 +59,7 @@ body{
     text-decoration: none;
     border-radius: 8px;
     margin: 15px;
-    padding: 10px 0;
+    padding: 12px 0;
     font-weight: 600;
     color: white;
     background-color: #333333;
